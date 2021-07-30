@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a full stack(MERN) based project.**
 
-- 🌱 I’m currently learning **React, redux , react native**
+- 🌱 I’m currently learning **React, redux **
 
 - 🤝 I’m looking for **an internship**
 
