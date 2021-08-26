@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, redux **
 
-- 🤝 I’m looking for **an internship**
+- 🤝 I’m looking for **an internship or Job**
 
 - 📫 How to reach me **ardhendujj002@gmail.com**
 
