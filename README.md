@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardhendu-init" alt="ardhendu-init" /></a> </p>
 
-- 🔭 I’m currently working on **a full stack(MERN) based project.**
+- 🔭 I’m currently working at **The Internet of Folks as a Software Developer**
 
 - 🌱 I’m currently learning **redux-toolkit,Nextjs, Chakra UI , TypeScript **
 
