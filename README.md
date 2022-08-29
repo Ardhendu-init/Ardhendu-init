@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **redux-toolkit,Nextjs, Chakra UI , TypeScript **
 
-- 🤝 I’m looking for **an internship or Job**
+- 🤝 I’m looking for **a Full time Job as a Software Developer**
 
 - 📫 How to reach me **ardhendujj002@gmail.com**
 
