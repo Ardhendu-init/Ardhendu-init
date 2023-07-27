@@ -3,37 +3,35 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ardhendu-init&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ardhendu-init" alt="GitHub Trophies" />
   </a>
 </p>
 
-<p align="center">🔭 I’m currently working at **The Internet of Folks** as a Software Developer</p>
+<p align="left">🔭 I Have experience in various web technologies and UI /UX design, specializing in JS /TS frameworks like React.js and Next.js and HTML, CSS, Javascript, and Typescript. Besides frontend I also have a decent knowledge of the backend, I have done projects with Express js, and MongoDB. Also, know Java. </p>
 
-<p align="center">🌱 I’m currently learning *Tailwind CSS*, *GraphQL*, and *Next.js*</p>
+<p align="left"">🌱 I’m currently learning *Tailwind CSS*, *GraphQL*, and *Next.js*</p>
 
-<p align="center">🤝 I’m looking for **a Full-time Job as a Software Developer**</p>
+<p align="left">🤝 I’m looking for **a Full-time Job as a Software Developer**</p>
 
-<p align="center">📫 How to reach me: ardhendujj002@gmail.com</p>
+<p align="left">📫 How to reach me: ardhendujj002@gmail.com</p>
 
-<p align="center">⚡ Hobbies: I play cricket and football</p>
+<p align="left">⚡ Hobbies: I play cricket and football</p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<p align="Left">
   <a href="https://linkedin.com/in/ardhendup" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin+logo&page=1&position=1&origin=search&related_id=3536505" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/16418562/ardhendu-pramanik" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
+
   <a href="https://www.hackerrank.com/ardhendu__init__" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<p align="Left">
   <img src="https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg" alt="Node.js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
