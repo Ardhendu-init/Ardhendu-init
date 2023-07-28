@@ -22,40 +22,37 @@
 <h3 align="center">Connect with me:</h3>
 <p align="Left">
   <a href="https://linkedin.com/in/ardhendup" target="_blank">
-    <img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin+logo&page=1&position=1&origin=search&related_id=3536505" alt="LinkedIn" height="30" width="40" />
+    <img src="./images/linkedin.png" alt="LinkedIn" height="30" width="40" />
   </a>
 
-  <a href="https://www.hackerrank.com/ardhendu__init__" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  <a href="https://leetcode.com/Ardhendu_init_/" target="_blank">
+    <img src="./images/leetcode.jpeg" height="30" width="40" alt='leetcode' />
+  </a>
+    <a href="https://auth.geeksforgeeks.org/user/ardhendupramanik/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="_blank">
+    <img src="./images/gfg.jpg" height="30" width="40" alt='GeeksForGeeks' />
+  </a>
+     <a href="https://twitter.com/Ardhendu_init_" target="_blank">
+    <img src="./images/twitter.jpg" height="30" width="40" alt='GeeksForGeeks' />
   </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="Left">
-  <img src="https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="./images/javascript.png" alt="JavaScript" width="40" height="40" />
+  <img src="./images/java.png" alt="Java" width="40" height="40" />
+  <img src="./images/typescript.png" alt="Typescript" width="40" height="40" />
+  <img src="./images/sql.png" alt="SQL" width="40" height="40" />
   <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+  <img src="./images/react.png" alt="React" width="40" height="40" />
+  <img src="./images/nextjs.png" alt="Nextjs" width="40" height="40" />
+  <img src="./images/nodejs.png" alt="Node" width="40" height="40" />
+  <img src="./images/html.png" alt="HTML" width="40" height="40" />
+  <img src="./images/css.png" alt="CSS" width="40" height="40" />
   <br>
-  <img src="https://miro.medium.com/max/800/1*9AbbVli10NreTXCpiVYEOQ.png" alt="Express.js" width="80" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  <img src="https://iconarchive.com/download/i109374/ph03nyx/super-mario/Super-mario-1UP.ico" alt="Next.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />
-  <img src="https://chakra-ui.com/logo.png" alt="Chakra UI" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
-  <img src="https://redux-toolkit.js.org/img/logo.svg" alt="React Redux Toolkit" width="40" height="40" />
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="40" />
-  <br>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  <img src="./images/git.png" alt="GIT" width="40" height="40" />
+  <img src="./images/mysql.png" alt="MYSQL" width="40" height="40" />
+  <img src="./images/mongodb.png" alt="Mongodb" width="40" height="40" />
+ 
 </p>
 
 <p align="center">
