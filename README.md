@@ -22,37 +22,31 @@
 <h3 align="center">Connect with me:</h3>
 <p align="Left">
   <a href="https://linkedin.com/in/ardhendup" target="_blank">
-    <img src="./images/linkedin.png" alt="LinkedIn" height="30" width="40" />
+    <img src="./assets/linkedin.png" alt="LinkedIn" height="30" width="40" />
   </a>
 
   <a href="https://leetcode.com/Ardhendu_init_/" target="_blank">
-    <img src="./images/leetcode.jpeg" height="30" width="40" alt='leetcode' />
+    <img src="./assets/leetcode.jpeg" height="30" width="40" alt='leetcode' />
   </a>
     <a href="https://auth.geeksforgeeks.org/user/ardhendupramanik/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="_blank">
-    <img src="./images/gfg.jpg" height="30" width="40" alt='GeeksForGeeks' />
+    <img src="./assets/gfg.jpg" height="30" width="40" alt='GeeksForGeeks' />
   </a>
      <a href="https://twitter.com/Ardhendu_init_" target="_blank">
-    <img src="./images/twitter.jpg" height="30" width="40" alt='GeeksForGeeks' />
+    <img src="./assets/twitter.jpg" height="30" width="40" alt='GeeksForGeeks' />
   </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="Left">
-  <img src="./images/javascript.png" alt="JavaScript" width="40" height="40" />
-  <img src="./images/java.png" alt="Java" width="40" height="40" />
-  <img src="./images/typescript.png" alt="Typescript" width="40" height="40" />
-  <img src="./images/sql.png" alt="SQL" width="40" height="40" />
-  <br>
-  <img src="./images/react.png" alt="React" width="40" height="40" />
-  <img src="./images/nextjs.png" alt="Nextjs" width="40" height="40" />
-  <img src="./images/nodejs.png" alt="Node" width="40" height="40" />
-  <img src="./images/html.png" alt="HTML" width="40" height="40" />
-  <img src="./images/css.png" alt="CSS" width="40" height="40" />
-  <br>
-  <img src="./images/git.png" alt="GIT" width="40" height="40" />
-  <img src="./images/mysql.png" alt="MYSQL" width="40" height="40" />
-  <img src="./images/mongodb.png" alt="Mongodb" width="40" height="40" />
- 
+<h4>
+Languages:
+</h4>
+<h5> Javascript, TypeScript, Java, SQL</h5>
+<h4>Web Development:</h4> <h5>React, Next, Redux, Node.js, Express.js, REST API, HTML, CSS</h5>
+<h4>Technology:</h4><h5>Git, MySQL, MongoDB</h5>
+<h4>Course Work:</h4> <h5>Data Structures, Algorithms, Object Oriented Programming (OOPs)</h5>
+<h4>Other Skills:</h4> <h5>Problem-Solving, Complexity Analysis, Troubleshoot, Debugging, Communication</h5>
+
 </p>
 
 <p align="center">
