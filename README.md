@@ -164,12 +164,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ardhendu-init&show_icons=true&hide_border=true&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardhendu-init&layout=compact&hide_border=true&title_color=00C2FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ardhendu-init&theme=github_dark" alt="GitHub Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ardhendu-init&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=ardhendu-init&hide_border=true&background=0d1117&stroke=00C2FF&ring=00C2FF&fire=FF6B35&currStreakLabel=00C2FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ardhendu-init&hide_border=true&background=0d1117&stroke=00C2FF&ring=00C2FF&fire=FF6B35&currStreakLabel=00C2FF" alt="GitHub Streak" />
 </p>
 
 ---
