@@ -35,6 +35,8 @@
 
 🤖 Designed and deployed **[Ghost AI](https://ghost-ai-vert-two.vercel.app)** — an **AI-native, real-time collaborative system-design platform** — solo and end-to-end: a multiplayer CRDT canvas where AI agents turn natural language into live architecture diagrams.
 
+🧠 Built **[CareerLens](https://career-lens-tan.vercel.app)** — a full-stack **RAG** resume-to-JD matching tool with a **Python / FastAPI** backend (pgvector similarity search, Google Gemini pipelines) — spanning both **AI-native frontend UX** and **backend AI infrastructure**.
+
 🧩 I care about **component architecture, real-time state, performance,** and **clean API design** — and I practice **AI-assisted, Spec-Driven engineering**.
 
 ✍️ I write about **React performance** & **TypeScript patterns**, and regularly practice **DSA** (200+ problems).
@@ -67,6 +69,7 @@
 **Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![Liveblocks](https://img.shields.io/badge/Liveblocks%20(CRDT)-FF4785?style=for-the-badge&logo=liveblocks&logoColor=white)
 ![Trigger.dev](https://img.shields.io/badge/Trigger.dev-0E1B2A?style=for-the-badge&logo=trigger.dev&logoColor=white)
@@ -76,6 +79,8 @@
 
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%26%20pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![LLM Apps](https://img.shields.io/badge/LLM%20Apps%20%26%20Agentic%20Workflows-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Data & Infra**
@@ -110,6 +115,17 @@
 
 ## 🚀 Featured Projects
 
+### 🧠 CareerLens — AI Resume-to-JD Matching Tool
+> A full-stack **RAG** pipeline built from scratch — **text chunking, vector embeddings, and pgvector cosine-similarity search** retrieve the resume sections most relevant to any job description. Backed by a **FastAPI** service-layer backend (Pydantic, SQLAlchemy, pytest) with structured **Google Gemini** pipelines behind defensive error handling, and a **Next.js 16 / React 19** frontend with Server Actions and a custom animated SVG score gauge.
+
+`FastAPI` · `Python` · `pgvector` · `Google Gemini` · `SQLAlchemy` · `Next.js 16` · `React 19` · `TypeScript` · `Supabase`
+
+[![Live](https://img.shields.io/badge/▶%20Live%20Demo-00C2FF?style=for-the-badge)](https://career-lens-tan.vercel.app)
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ardhendu-init/careerlens)
+[![API Docs](https://img.shields.io/badge/API%20Docs-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://careerlens-a8jl.onrender.com/docs)
+
+---
+
 ### 🤖 Ghost AI — AI-Native Real-Time System-Design Platform
 > A multiplayer workspace where an **AI agent turns natural-language prompts into live architecture diagrams** and compiles the graph into a persisted Markdown spec. Built **conflict-free collaborative editing** with live presence on **CRDT-backed Liveblocks + React Flow**, moved all LLM work to **durable Trigger.dev tasks** (retries, SHA-256 idempotency) across **11 secured API routes**.
 
@@ -134,15 +150,6 @@
 `Next.js` · `Chakra UI` · `Formik` · `React Query` · `Jest`
 
 [![Live](https://img.shields.io/badge/▶%20Live-2D8CFF?style=for-the-badge)](https://www.ivca.in/)
-
----
-
-### 🍔 CraveWave — Food Ordering App
-> Full-featured food-delivery app with Google authentication, **Stripe payments**, and order tracking.
-
-`Next.js` · `Tailwind` · `MongoDB` · `Prisma` · `Stripe`
-
-[![Live](https://img.shields.io/badge/▶%20Live-FF6B35?style=for-the-badge)](https://food-app-ardhendu-init.vercel.app/)
 
 ---
 
